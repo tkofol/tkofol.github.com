@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: CouchFS Release 0.0.1
+tags: [technology]
+---
+Well I haven't given this project much love lately. I took a little time out this weekend and stabilized it (a little) and added the much needed feature of specifying the database url and port.
+
+It is still missing lots of features, (all files and views are still readonly) but i would rather release it then sit on it.
+
+You can download it at "CouchFS download page":http://code.google.com/p/couchfs/downloads/list.
+
+For those who don't know...
+
+CouchFS is a MacFUSE file system that allows you access to CouchDB databases and files. Using CouchFS will allow you to mount your CouchDB system and edit/browse CouchDB files like any typical file on your OS X file system.
+
+

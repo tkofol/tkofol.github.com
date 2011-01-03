@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: AlarmTube - Alarms the YouTube way
+tags: [web,announcements]
+---
+I just released a little YouTube mashup called "AlarmTube":http://alarmtube.highimpactnoise.com. 
+
+Basically what it does is it uses YouTube videos as alarm ringtones. The coolest thing about it is that it uses natural language parsing to set the alarm time (thanks "chronic":http://chronic.rubyforge.org ). The youtube video selection support was provided by the ruby "youtube gem":http://shanesbrain.net/articles/2006/11/21/ruby_youtube_library_0_8_0_released, and the it of course uses the "ruby on rails framework":http://www.rubyonrails.org/, which was probably overkill for this project.
+
+Check it out at "http://alarmtube.highimpactnoise.com":http://alarmtube.highimpactnoise.com. Trust me it is perfect for a nice thirty minute nap. Just type in 30 minutes for the alarm time and choose a YouTube video.
+
+If you have any suggestions just email me as always at tkofol@gmail, or post a comment.
+
+!/static/images/articles/alarmtube_screenshot.png!
+

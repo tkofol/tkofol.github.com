@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: Invest In Yourself [Quote]
+tags: []
+---
+Quote paraphrased from "Jason Calacanis":http://calacanis.com/ on "TWIT":http://twit.tv/.
+
+bq. "The best thing to do during an economic downturn is to invest in yourself."

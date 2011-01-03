@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Google Health - Personal Health Record Management
+tags: [web]
+---
+!/static/images/articles/google-health.jpg!
+
+"Vince Kuraitis":http://e-caremanagement.com/aboutvince2/ has some very interesting speculation, that Google may be moving into the "Personal Health Record Management Biz":http://e-caremanagement.com/connecting-the-dotsgoogle-health-promises-to-create-and-dominate-next-generation-phrs/. I believe this would be a radical move for Google and a big bonus to the US Health Care System. 
+
+Centralization of people's health information is a must. This is not the 1900's where I may only see one or two doctors in my whole life. I have probably seen 50 doctors in my lifetime and I am only 25 years old. Who knows what it says in my chart in rando hospital in CT where I was treated for Torticollis (Stiff neck but it hurt like hell). My health information is scattered throughout the US, in hospitals, doctors offices, etc. It would take a monumental effort on my part to track down the scattered bits of information to form a full personal health record, but connecting all these dots would make me feel more comfortable with the information out there, and would produce a better medical histories which would lead to better diagnosis... 
+
+But after writing the blog post, many people commented on Vince's speculation, often asking why should I trust "Google":http://www.google.com with this information. Vince  "nicely "responds to this question":http://e-caremanagement.com/in-god-we-trust-is-not-an-option-for-your-phr-5-responses-to-the-google-health-trust-issue/, but I would go on to say most people already trust google with important information, maybe not the all sacred Personal Health Information, but important information nonetheless. 
+
+Actually I am more scared of someone hacking Google and obtaining my "search history":http://www.google.com/history, (Yes they keep that info) (man I have had some weird searches), than I am of someone finding out my blood pressure. I understand that people's health information is incredibly important to them, that is why I would rather have it centralized so I know who is accessing it, and what it says. So i hope the rumor is true.

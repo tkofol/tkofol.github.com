@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: My First Kiva Loan
+tags: [web]
+---
+After reading about "Kiva":http//www.kiva.org on "37 Signals Blog":http://www.37signals.com/svn/posts/589-kiva-help-working-poor-entrepreneurs-in-the-developing-world I had to go check it out. Kiva is a really fabulous idea that allows you and me to finance small businesses in developing countries. This is not a hand out, it is a loan (without interest, actually the interest gets paid to the field partner) and Kiva has had a really good record of repayment. The delinquency rate of a Kiva loan is 2.37% and the default rate is 0.25%, compared to the current delinquency rate of sub prime mortgages, Kiva loans are positively risk-free.
+
+Here is how it works
+
+!/static/images/articles/diagram_loanCycle.gif!
+
+
+And I am proud to say I made my first micro loan. I lent $25  to "DRAME MAMADOU":http://www.kiva.org/app.php?page=businesses&action=about&id=17584 , I wish him luck in expanding his activities and diversify his product range. I encourage everyone to check it out.

@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: CouchDB Relaxing the DB restrictions
+tags: [technology]
+---
+!/static/images/articles/couchDB_logo.png!
+
+I have been marginally playing around with "CouchDB":http://couchdb.org/CouchDB/CouchDBWeb.nsf/Home?OpenForm, currently waiting for a time for my schedule to free up. But I wanted to just put my two cents in on what I see is a very promising technology. 
+
+Taken from the CouchDB website, here is what CouchDB claims to be.
+* A document database server, accessible via a RESTful "JSON":http://en.wikipedia.org/wiki/JSON API.
+* Ad-hoc and schema-free with a flat address space.
+* Distributed, featuring robust, incremental replication with bi-directional conflict detection and management.
+* Query-able and index-able, featuring a table oriented reporting engine that uses Javascript as a query language. 
+
+In English
+* Documents are formated in JSON and accessed through HTTP
+* You don't have to define what your documents will look like ahead of time
+* 1 computer to ...??? (>1) computers the database replicates itself without getting messed up
+* Extract the data you want by basically searching through all the documents
+
+Obviously to use CouchDB in any project you probably want to understand their jargon, but my English will hopefully get you interested in their jargon. What makes CouchDB so cool is just how simple it is. CouchDB is just using HTTP to pass around json objects. And getting data out is just using javascript to extract data through HTTP in the form of ... JSON objects. A database like only the web could do.
+
+I have already decided I am going to use CouchDB in my next "Rails":http://www.rubyonrails.org/ project. If it fails to work out properly I will at least be able to give back to CouchDB community about what the pain points were.
+
+P.S. I will be posting on how to build CouchDB on OS X later on __without__ macports. Its pretty easy but everyone likes a little tutorial.

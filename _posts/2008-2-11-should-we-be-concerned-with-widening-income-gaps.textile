@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: How Concerned Should We Be With The Widening Income Gap
+tags: []
+---
+"!/static/images/articles/income-gap-10chart.thumb.gif!":/static/images/articles/income-gap-10chart.large.gif
+
+Peruse the chart before reading this article.
+
+My girlfriend has me skimming the "New York Times":http://nytimes.com/ as she is addicted to it, so naturally I must follow suit.
+
+Today I came across the following op-ed "You Are What You Spend by W. MICHAEL COX and RICHARD ALM":http://www.nytimes.com/2008/02/10/opinion/10cox.html?em&ex=1202792400&en=70ee2b7f15cb7a79&ei=5070
+and it really struck a chord with my beliefs on this often pointed to statistic.
+
+The statistic will be sighted every which was this campaign season.
+
+Obama - "You are tired of administration policies that seem to widen the gulf between rich and poor, that seem to always favor the rich and the powerful while ordinary people are struggling":http://www.dailyprogress.com/servlet/Satellite?pagename=CDP/MGArticle/CDP_BasicArticle&c=MGArticle&cid=1173353299752
+
+Clinton - "Buffet and Clinton warned of the dangers of a growing gap between rich and poor, and a tax system that disproportionately helps people Buffet called 'these super-rich' himself included.":http://www.foxnews.com/story/0,2933,316510,00.html
+
+You get the idea.
+
+But it misses the point, as the New York Time Op-Ed article astutely states.
+
+bq. Looking at a far more direct measure of American families' economic status household consumption indicates that the gap between rich and poor is far less than most assume, and that the abstract, income-based way in which we measure the so-called poverty rate no longer applies to our society.
+
+There is no denying that there is a large gap between the rich and the poor and that, that gap is increasing. But how is that gap effecting consumption. The answer that compared to the income gap the consumption gap is a mere 2:1 per person. Furthermore technological advances, drive prices of goods down and allow even those in the lower income brackets to consume goods that were once reserved for the rich. (See graph for consumption uptake)
+
+Next time you here this statistic, take the time to understand it. I know it sounds frightening, but thats statistics.
+
+What would be interesting to look at is how that number has varied over time, is the ratio of consumption per person between the rich and the poor increasing?
+
+

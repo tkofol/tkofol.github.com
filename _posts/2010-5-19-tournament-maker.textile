@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Tournament Maker {Simple Tournament Creator}
+tags: [announcements]
+---
+!/static/images/articles/app_1_110049992353453_5048.gif!
+
+I just finished creating my first "Facebook":http://facebook.com app. "Tournament Maker":http://apps.facebook.com/fbtournament allows you to setup a bracket for your tournament in no time. Invite your friends to take place in a Beirut, Soccer, Tennis, Flip Cup tournament, you name it Tournament Maker automagically makes the bracket.
+
+If you get a chance go check it out at:
+
+"http://apps.facebook.com/fbtournament":http://apps.facebook.com/fbtournament
+
+or go to "Tournament Maker's profile page":http://www.facebook.com/?ref=logo#!/apps/application.php?id=110049992353453 and tell me what you think.
+
+!/static/images/articles/tourney-maker-screenshot.png!

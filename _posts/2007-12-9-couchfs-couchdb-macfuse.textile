@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: CouchFS = CouchDB + MacFuse
+tags: [technology]
+---
+!/static/images/articles/macfuse.jpg!
+
+Instead of doing something somewhat necessary in my life. I was so intrigued by Fuse in general and MacFuse in particular, I rolled up CouchDB into a MacFuse filesystem.
+
+Friday I saw "Amit Singh's":http://www.kernelthread.com/  "Google Tech Talk":http://www.youtube.com/watch?v=Yjdp70474LE on "MacFuse":http://code.google.com/p/macfuse/ and it was really fascinating. He not only showed off MacFuse but went into the history of filesystems.
+
+The MacFuse code comes with a couple example applications, but they are written in "Objective-C":http://en.wikipedia.org/wiki/Objective-C, so instead of looking for a language that I understand I decided to learn Objective-C. Long story short MacFuse makes it really easy to make your own filesystem.
+
+CouchFS is still very raw (mainly because my understanding of Objective-C is minimal) so I don't have an app ready to distribute. But the source is available on "CouchFS google code page":http://code.google.com/p/couchfs/. Patches/Help are encouraged. Hopefully I will have an app ready next week.

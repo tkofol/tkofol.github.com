@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Apartment Hunting
+tags: [life]
+---
+<p>
+I am currently looking for an apartment in Boston and would love to do some research myself instead of going through a broker. What I have found is a lack of good online tools to facilitate renting an apartment. There is always <a href="http://www.housingmaps.com">housing maps</a> but that relies solely on craigslist which does not have enough volume in Boston, maybe 10-15 apartments at anytime.
+</p>
+<p>
+I want something like housing maps that captured a greater percentage of the apartments for rent. I want something like <a href="http://www.zillow.com">zillow</a> for renting. Does this exist? Am I asking to much? I might be a data slut.
+</p>
+<p>
+Suggestions?
+</p>

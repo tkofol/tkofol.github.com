@@ -1,0 +1,49 @@
+--- 
+layout: post
+title: Integrating git and subversion
+tags: [technology]
+---
+I have recently been playing around with git source control, just checking out what the new rage in source control is all about.
+
+!/static/images/articles/git-logo.png!
+
+Unlike "Linus":http://en.wikipedia.org/wiki/Linus_Torvalds I don't hate subversion though I do hate CVS, I think there is a place for both a central and distributed repositories. In fact I think deep down in his heart of hearts so do Linus. In fact he kind of says so in his "google tech talk":http://www.youtube.com/watch?v=4XpnKHJAok8  when exclaims that his project linux comes together in 1 point (his repo). He tries to say its for historical reasons, but I don't believe that. If you are working on a project and it never comes down to one source for release purposes whats the point. I believe what ends up happening is that it probably usually comes down to one point naturally, and linus thinks thats cleaner.
+
+<b>Distributed is great for development, but centralized is great for deployment.</b>
+
+And so I have been trying to work with both. 
+"errtheblog was so kind enough to teach me how":http://cheat.errtheblog.com/s/gitsvn/.
+Below is a commented version of err's cheat-sheet.
+
+<macro:code lang="text">
+git svn clone <your-svn-repo>
+
+git svn rebase    # update current code
+
+git checkout -b new_branch    # create a branch to work on
+
+... do your work / local commits ...
+
+git checkout master    # move back to the master branch
+
+git svn rebase    # update the master branch in case anything has gone on in subversion 
+
+git checkout -b up    # create a new branch off the most recent subversion snapshot           
+
+git merge --squash new_branch    # merge the branch you have been playing with the up branch, --squash option tells "git merge" to act as if this were a manual commit, not a merge
+
+git commit    # commit the merge
+
+git svn dcommit    # send the changeset up stream
+
+git checkout master    # move to the master branch
+
+git svn rebase    # update the master branch
+
+git branch -D new_branch up    # delete the branches you have been working with
+
+#rinse and repeat
+</macro:code>
+
+One huge caveat to using git with svn, git's support for svn:externals is non-existent. I use svn:externals constantly in any rails project, so this sucks. There are some "work arounds":http://blog.nbwd.co.uk/2007/8/16/using-git-for-rails-development" but I am not a huge fan...yet.
+

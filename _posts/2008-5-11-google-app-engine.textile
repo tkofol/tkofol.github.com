@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Google App Engine
+tags: [technology]
+---
+So I spent the last couple of hours moving "AlarmTube":http://alarmtube.highimpactnoise.com from a Rails application to one that is host by "Google App Engine":http://code.google.com/appengine (GAE).
+
+I did this for two reasons:
+
+1) To play with Google App Engine
+
+2) Can't tell you. Hopefully will announce next week.
+
+GAE makes a lot less choices for you then RoR, thus taking a little longer to set up your application infrastructure. I am sure it won't be long before someone puts together a web framework that makes GAE simpler to setup. Simply creating some scaffolding would help a lot. Now AlarmTube does not need to scale, but if it did I here GAE would be kick ass. GAE is also free so it really lowers the barrier to enter the web world. 
+
+Those are my thoughts on Google App Engine, it will be interesting to see how the big guys in the web world respond to this complete development environment (cloud) that Google has set up. Amazon has the closest thing to what Google has setup, they just need to integrate their disparate services.

@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: Leveraged To The Sky
+tags: [business]
+---
+"Paul Kedrosky of Infectious Greed":http://paul.kedrosky.com/ tipped me off to this quote.
+
+bq. What is truly disgraceful is that investment banks could only manage returns on equity of 15-25% with a balance sheet that was often leveraged to the sky.
+
+-- Niels Jensen and Jan Wilhelmsen, of Absolute Return Partners

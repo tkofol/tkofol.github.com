@@ -1,0 +1,17 @@
+---
+layout: blog
+title: High Impact Noise - Archives
+---
+
+
+<div class="entry">
+  <h1>Blog Archives</h1>
+  
+  <ul id="blog-archives">
+    {% for post in site.posts %}
+      <li>{{post.date| date: "%b %d %Y"}} - 
+        <a href="{{post.url}}">{{post.title}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

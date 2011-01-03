@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Meraki Networks = Sweet
+tags: [technology]
+---
+!/static/images/articles/meraki_logo.gif!
+
+I just got my new Meraki Mini today, plugged it in, and started setting up my own wireless mesh network. My network is pretty boring right now, as it is just this one node, but I wanted to take Meraki out for a testdrive.
+
+For those who don't know anything about "Meraki":http://meraki.net/, the company started out of an MIT research project Roofnet. They are trying to change the economics of internet access providing cheap wireless equipment (mini costs $49) capable of creating large mesh networks. They have some pretty heavy backing from Google and Sequoia Capital.
+
+Your wireless network is controlled through Meraki's control panel. You can see usage statistic, uptime, and it even has a cool Google Maps mashup of where the mini is. Unlike most control panels this one is centralized on the internet so you can manage multiple minis, though they also give you a web control panel straight on the device. 
+
+Another thing that I am looking forward to checking out, is that they allow you to charge people if they want to use your network. No more people grabbing my free internet, they can now pay me like 50 cents. I can see the pennies pilling up.
+

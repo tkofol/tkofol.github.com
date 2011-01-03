@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: American Idol, YouTube Style
+tags: []
+---
+I have been working on a simple Alarm Clock/YouTube type mashup and came across a story that really demonstrates the power of the internet. Now I don't watch much YouTube television but when I was looking at the featured videos I came across one by "Esmee Denters":http://esmeeworld.com/.
+
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/69Grnh7Qin8"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/69Grnh7Qin8" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+
+Whats interesting is only 4 months ago she started posting karaoke, and now her YouTube space reached number 23 position worldwide as one of the most popular youtube member of all time. This too me is just one more demonstration of the effect that the internet is having on the world, sing karaoke on youtube, sign a record contract. I am pretty sure stars of the past were not being signed in karaoke bars.
+
+

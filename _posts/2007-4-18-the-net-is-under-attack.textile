@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: The Net is Under Attack
+tags: [web]
+---
+Imagine a world in which you typed www.google.com and got sent to www.msn.com. Or where the www.highimpactnoise.com sent you www.bestbuy.com (I don't know why this would happen, maybe Best Buy found that readers of this blog are good customers).
+
+This could and will happen if Telecommunication companies have their way, and create a biased web. Redirecting traffic based on the highest bidder, not who owns the web address. This could be an all too real possibility.
+
+"Write your state representative":http://www.house.gov/writerep and tell them to keep the net neutral.
+
+Search "Network Neutrality":http://en.wikipedia.org/wiki/Network_neutrality to find out more about this important issue.

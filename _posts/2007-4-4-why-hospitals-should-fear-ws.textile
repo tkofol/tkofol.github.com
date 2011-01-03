@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Why Hospitals Should Fear WS*
+tags: [technology]
+---
+As more and more medical devices try to become networked entities this creates an added burden on hospital IT administrators. Unfortunately hospital admin's WS* and in particular SOAP based protocols are "gaining traction":http://medicalconnectivity.com/2006/10/03.html and becoming the defacto standard. WS Death Star as DHH aptly nicknamed is a complicated standard that has plenty inherent security problems
+
+Paul Prescod states the problem perfectly in this "post":http://www.prescod.net/rest/security.html
+
+__SOAP is designed to slip through firewalls as HTTP. There is no doubt that this is a design goal. Microsoft advertises it as such. Don Box (one of SOAP's inventors) is quite open  about this: "if you look at the state of the average organization, they use proxy servers and they use firewalls to prevent normal TCP traffic from making it from one machine to another. Instead, they set up this infrastructure to allow HTTP to work. So part of the problem was replacing the transport, which is the way DCOM does framing, with an ACDP-based transport. That was the first part of the SOAP effort."__
+
+Firewalls exist to monitor activity. To create a standard that makes this harder is ridiculous.
+
+Why ruin a good thing? SOAP adds layers and layers of unnecessary complexity, so much so that most SOAP toolkits have trouble communicating. HTTP is a proven commodity, used billions of time a day, embrace it.
+
+Medical Device manufactures look to a RESTful solution. Don't be deceived, poorly thought out complexity does not increase security.

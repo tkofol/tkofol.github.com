@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: OpenDNS - Phishing Not Allowed
+tags: [technology]
+---
+Recently a friend of mine fell victim to a "phishing":http://en.wikipedia.org/wiki/Phishing scam. Phishing is a huge problem plaguing the internet costing millions of dollars. Gartner claims, between May 2004 and May 2005, roughly 1.2 million U.S. computer users suffered phishing losses valued at $929 million.
+
+Spotting these emails and fake websites are tough to do unless you know what to look for. They often look exactly like the Paypal or Bank of America website. They use little tricks that make the url look like they are coming from your bank such as http://www.yourbank.com.example.com/.  It is a big problem.
+
+"OpenDNS":http://www.opendns.com/ is a nifty service that not only helps you browse the internet more safely, and guess what it makes the internet faster as well.
+
+<a title="Use OpenDNS to make your Internet faster, safer, and smarter." href="http://www.opendns.com/share/"><img src="http://images.opendns.com/buttons/use_opendns_155x52.gif" width="155" height="52" style="border:0;" alt="Use OpenDNS" /></a>
+
+It works by teaming up with "phistank":http://www.phishtank.com/ a user generated phishing site database to prevent you from going to these malicious sites. The best thing is that there is no software to install, no hardware to buy, just point your DNS settings to their servers. 
+
+For information on how it works go to "here":http://www.opendns.com/how/dns/turning-names-into-numbers and for information on how to set it up go to "here":http://www.opendns.com/start/

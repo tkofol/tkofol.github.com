@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Rails, Defaults and the Paradox of Choice
+tags: [technology]
+---
+"Convention over Configuration":http://en.wikipedia.org/wiki/Ruby_on_Rails. One of the main tenants of Ruby on Rails basically sets sensible defaults and forces the programmer to code only unconventional aspects of the app. To me this is one, if not the main reason Rails programming is so enjoyable.
+
+This idea of convention over configuration reminds me of a "Google Tech Talk":http://video.google.com/googleplex.html, {if you haven't seen any of them, they are very informative} called the "The Paradox of Choice":http://video.google.com/videoplay?docid=6127548813950043200&q=The+paradox+of+choice&total=61&start=0&num=10&so=0&type=search&plindex=0 by "Barry Schwartz":http://www.swarthmore.edu/SocSci/bschwar1/. In his talks about sensible defaults and the happiness this brings. 
+
+!/static/images/articles/the-paradox-of-choice.jpg!
+
+The example he gives is the difference between the European and American policies towards organ donation.   28% of licensed drivers in the US are organ donors (85% think it's the right thing to do), while in some European countries the organ donation rate is as high as 90%. What's the difference. In Europe the default choice is that you ARE an organ donor while in America you have to opt in to be an organ donor. Basically in Europe their opinion or default is that you should be an organ donor, and you have to take measures to opt out. 
+
+So how does this relate to Ruby on Rails? Rails forces you to do the "right thing" if you do nothing. And by doing nothing or conforming to the right naming patterns you get whats in your best interest. Only when you go outside the "right thing" do you have to spend extra effort. That makes life in you mind a lot more simple, reduce choices, embrace constraints, free your mind.
+
+
+

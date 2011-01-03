@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Gridlock Economy and Patent Reform
+tags: [business]
+---
+Just finished listening "Michael Heller":http://www.law.columbia.edu/fac/Michael_Heller on "EconTalk":http://www.econtalk.org/archives/2009/11/heller_on_gridl.html who was talking about his new book "The Gridlock Economy":http://www.gridlockeconomy.com/. Michael Heller talked about a fact that a had previously known but had not given much thought recently. There is an increasing number of biotech patents being issued, while the number of biotech drugs approved has remained relatively stagnant. This is both an indictment on are drug approval process and more so of the patent system.
+
+Heller talks about how the patent system was written 50 years ago when one patent went with one product. While this may still be the case in small molecule pharmaceuticals, this is certaintly not the case in biotech or in software or in any complex system. Today, innovation is built on the innovation of the passed. The need to find the possible world of patents your product may infringe on and negotiating with those parties limits innovation / public good. Research shows that the patent system, excluding pharmaceuticals, has an overall negative economic impact. 
+
+This got me wondering, is these are market solution to this problem? The status quo will not allow the patent system to be abolished, but could the government decrease the transaction costs? Could the government make a market for buying and selling partial patent rights? 
+
+(Disclaimer, the details to this proposal have only been hashed out for 20 minutes. )
+
+When a patent is issued, shares to use that patent are issued as well. These shares would allow companies to use the patent up to a certain revenue threshold. (Make 100K off a patent). The company would receive the proceeds of the public offering of these shares. Additional, follow-on offering would also be in the companies control. I am sure there are all sorts of problem with this thought process, but its a start in decreasing the transaction costs that patents bring.
+
+<img src="/static/images/articles/biotech_thumb.png" alt="" width="550" />
+
+
+Not the exact graph I was looking for, but replace cost with patents, and the graph looks pretty identical.

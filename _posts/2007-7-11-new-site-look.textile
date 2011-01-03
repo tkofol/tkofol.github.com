@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: New Site Look!
+tags: [announcements]
+---
+I have finally gotten around to making my own Mephisto theme for this website. This site needed a little face lift, and I think it turned out very nicely. Enjoy!
+

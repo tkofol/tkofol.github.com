@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Does Ribbit Get The Internet Economy
+tags: [web]
+---
+!/static/images/articles/ribbit_logo.jpg!
+
+The Internet has developed under a "philosophy of free". Watching "Chris Anderson Talk at Nokia":http://www.netvision.de/uk/dispatching/?event_id=5bb1b5e95afabb2e62d2b148ded47706&portal_id=369401748e8249f142a700d8098a3473 has only reaffirmed my belief that to succeed on a large scale in this digital era, Free is the key.
+
+The internet and traditional phone companies are headed for a clash. "Ribbit":http://www.ribbit.com/ may be the first company to lead the charge in changing the telephony landscape, making it accessible to any developer. Their API offering is extremely interesting, allowing any developer to use their telephony backbone, see their demo for some nifty stuff.
+
+But as "All Thing D Article":http://digitaldaily.allthingsd.com/20071217/ribbit/ writer "John Paczkowski":http://allthingsd.com/about/john-paczkowski points out
+
+bq. ".. how's the company going to make money? Ribbit says it plans to charge for services like calls to traditional landlines, voice-mail transcriptions and billing.... Being able to use text-to-speech transcription services and archive voice calls are many of the features that consumers have shown interest in over the years. However, whether or not they're willing to pay for these features is going to be the big question.
+
+I know that I am barely willing to pay for my phone calls, especially knowing the cost of a phone call is diving toward zero. Archiving my voice calls would be great, but if Google got in this game I know that they would do it for ZERO. So I am wondering, where is the advertising opportunity in this venture. 
+
+<object width="425" height="373"><param name="movie" value="http://www.youtube.com/v/8aPiYgDQmcY&rel=1&border=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/8aPiYgDQmcY&rel=1&border=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="373"></embed></object>

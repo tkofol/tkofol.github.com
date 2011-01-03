@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: SocialPicks - A New Kind Of Stock Analyst
+tags: [web]
+---
+!/static/images/articles/social_picks_logo.gif!
+
+The internet has lowered the barrier to entry into many fields. Amateur writer/reporters can blog, amateur singers and movie makers can post to "youtube":http://www.youtube.com, often achieving success inline with the "pro's". I for one see this as natural progress though much of the establishment media is often threatened, and denigrate online talent. 
+
+This movement of amateurs could be creeping into the investment world. "SocialPicks":http://www.socialpicks.com has recently "received a round of funding":http://venturebeat.com/2007/12/14/socialpicks-a-stock-market-community-site-raises-round/  from "Bay Partners":http://www.baypartners.com/. SocialPicks offers a forum for amateur investors to show off their analysis and investment skills.
+
+As we are finding out more and more, experts most of the time, are not so expert (see "Black Swan":http://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/1400063515 by "Nassim Nicholas Taleb":http://www.fooledbyrandomness.com/). And aggregated crowds are often smarter than individuals most of the time ("Wisdom of Crowds":http://www.amazon.com/Wisdom-Crowds-Collective-Economies-Societies/dp/0385503865 by "James Surowiecki":http://en.wikipedia.org/wiki/James_Surowiecki). This includes highly paid Wall Street analysts.
+
+SocialPicks looks to let amateurs compare their performance against the Pro's, often showing that such "gurus" as "Jim Cramer":http://www.socialpicks.com/jimcramer are not the people you should be taking investment advice from. In addition SocialPicks aggregates the information about stocks giving an overview of how the crowd feels about a given investment.

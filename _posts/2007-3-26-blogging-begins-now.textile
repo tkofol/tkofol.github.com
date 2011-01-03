@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: Blogging Begins ... Now
+tags: [announcements]
+---
+It seems everyone and their mother has a blog, so I am throwing my hat in the ring.
+
+I will be posting my insights on anything that comes on my radar, including the medical device industry, ruby on rails, AI (Hierarchical Temporal Memory), pursuing my MBA, raising my new puppy. You get the point.
+
+Enjoy.

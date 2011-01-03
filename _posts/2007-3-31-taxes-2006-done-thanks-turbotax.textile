@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Taxes 2006 Done - Thanks TurboTax
+tags: [web]
+---
+I just finished my 2006 taxes and I just wanted to take this time to thank "TurboTax":http://turbotax.intuit.com. It was a breeze. I am not going to lie (I hate that phrase), I don't have a lot going on in my taxes but I can't imagine doing my taxes with a pen, paper and calculator. 
+
+Maybe I will ask my folks what it was like later, I bet if my dad had his way he would be doing the taxes the old fashion way. 
+
+I found that the TurboTax software was much improved from last year. Almost completely hiding the ugly calculation details, intelligently importing last years return. They have seemed to embraced Web 2.0 or just like javascript. I am a little pissed at Bank Of America because they were not on the list of banks that could automatically import my 1099's. 
+
+One of the user interface things I love is when forms fields automatically format phone numbers, social security numbers, putting in the pesky "-" or "(" around area code ")". Something that simple really enhances the whole user experience.
+
+Note: I used TurboTax basic online edition.

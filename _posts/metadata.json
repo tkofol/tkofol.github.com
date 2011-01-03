@@ -1,0 +1,394 @@
+{
+  "/2010/12/22/lean-startups-and-medtech" : {
+    "filename" : "lean-startups-and-medtech.textile", 
+    "title" : "Lean Startups and the MedTech Industry",
+    "published" : [2010,12,22],
+    "tags"  : ["startup"]
+  },
+  "/2010/5/19/tournament-maker-simple-tournament-creator" : {
+    "filename" : "tournament-maker.textile", 
+    "title" : "Tournament Maker {Simple Tournament Creator}",
+    "published" : [2010,5,19],
+    "tags"  : ["announcements"]
+  },
+  "/2010/5/17/riding-the-goalie-fallacy" : {
+    "filename" : "riding-hot-goalie.textile",
+    "title" : "Riding The Hot Goalie Fallacy",
+    "published" : [2010,5,17],
+    "tags" : []
+  },
+  "/2010/4/29/you-think-healthcare-cost-are-skyrocketing" : {
+    "filename" : "skyrocketing-tuition-costs.textile",
+    "title" : "You Think Healthcare Cost are Skyrocketing",
+    "published" : [2010,4,29],
+    "tags" : []
+  },
+  "/2009/11/29/gridlock-economy-and-patent-reform" : {
+    "filename" : "patent-reform.textile",
+    "title": "Gridlock Economy and Patent Reform",
+    "published" : [2009,11,29],
+    "tags" : ["business"]
+  },
+  "/2009/9/28/tuition-bubble" : {
+    "filename" : "tuition-bubble.textile",
+    "title": "Tuition Bubble?",
+    "published" : [2009,9,28],
+    "tags" : [],
+    "archived" : true
+  },
+  "/2009/8/24/intrinsic-motivators-matter-much-more-in-the-21st-century" : {
+    "filename" : "intrinsic-motivation.textile",
+    "title": "Intrinsic Motivators Matter Much More in The 21st Century",
+    "published" : [2009,8,24],
+    "tags" : [],
+    "archived" : true
+  },
+  "/2009/8/12/the-fuzzy-numbers-of-the-economy" : {
+    "filename" : "fuzzy-economy-numbers.textile",
+    "title": "The Fuzzy Numbers of the Economy",
+    "published" : [2009,8,12],
+    "tags" : ["business"],
+    "archived" : true
+  },
+  "/2009/8/10/status-update-8-10-09" : {
+    "filename" : "status-update-8-10-9.textile",
+    "title": "Status Update (8/10/09)",
+    "published" : [2009,8,10],
+    "tags" : ["life", "dogs"]
+  },
+  "/2009/3/8/nationalized-citibank" : {
+    "filename" : "nationalized-citibank.textile",
+    "title" : "Nationalized Citibank",
+    "published" : [2009,3,8],
+    "tags" : ["funny"],
+    "archived" : true,
+    "updated" : [2010,9,7,17,0]
+  },
+  "/2009/3/6/john-stewart-ripping-cnbc" : {
+    "filename" : "john-stewart-cnbc.textile",
+    "title" : "John Stewart Ripping CNBC",
+    "published" : [2009,3,6],
+    "tags" : ["funny"],
+    "archived" : true
+  },
+  "/2009/1/23/why-i-don-t-want-the-gov-t-operating-a-pe-firm" : {
+    "filename" : "govt-not-a-pe-firm.textile",
+    "title" : "Why I Don't Want The Government Operating A PE Firm",
+    "published" : [2009,1,23],
+    "tags" : ["business"]
+  },
+  "/2009/1/9/snl-morgan-stanley" : {
+    "filename" : "snl-morgan-stanley.textile",
+    "title" : "SNL: Morgan Stanley",
+    "published" : [2009,1,23],
+    "tags" : ["funny"],
+    "archived" : true,
+    "updated" : [2010,9,7,17,0]
+  },
+  "/2009/1/4/v-r-is-it-a-fraud" : {
+    "filename" : "var-fraud.textile",
+    "title" : "V@R: Is it a fraud?",
+    "published" : [2009,1,4],
+    "tags" : ["business"]
+  },
+  "/2008/12/25/hulu-the-holidays" : {
+    "filename" : "hulu-and-holidays.textile",
+    "title" : "Hulu & The Holidays",
+    "published" : [2008,12,25],
+    "tags" : ["business"]
+  },
+  "/2008/12/19/why-most-things-fail" : {
+    "filename" : "why-things-fail.textile",
+    "title" : "Why Most Things Fail?!",
+    "published" : [2008,12,19],
+    "tags" : ["business"]
+  },
+  "/2008/12/9/new-big-three-advertisement" : {
+    "filename" : "big-three-ad.textile",
+    "title" : "New Big Three Advertisement",
+    "published" : [2008,12,9],
+    "tags" : ["funny"]
+  },
+  "/2008/11/5/bailout-sleuth": {
+    "filename" : "bailout-sleuth.textile",
+    "title" : "Bailout Sleuth",
+    "published" : [2008,11,5],
+    "tags" : ["business"]
+  },
+  "/2008/11/4/vote" : {
+    "filename" : "vote.textile",
+    "title" : "Vote!",
+    "published" : [2008,11,4],
+    "tags" : []
+  },
+  "/2008/10/30/invest-in-yourself-quote" : {
+    "filename" : "invest-in-yourself.textile",
+    "title" : "Invest In Yourself [Quote]",
+    "published" : [2008,10,30],
+    "tags" : []
+  },
+  "/2008/10/12/vc-s-irresponsibly-telling-their-portfolio-companies-about-the-economy" : {
+    "filename" : "vc-telling-portfolio-companies-about-exconomy.textile",
+    "title" : "VC's Irresponsibly Telling Their Portfolio Companies About the Economy",
+    "published" : [2008,10,12],
+    "tags" : ["business"]
+  },
+  "/2008/10/10/sequoia-capital-startups-in-the-economic-downturn": {
+    "filename" : "sequoia-capital-startups-in-the-economic-downturn.textile",
+    "title" : "Sequoia Capital - Startups in the Economic Downturn",
+    "published" : [2008,10,10],
+    "tags" : ["business"]
+  },
+  "/2008/9/23/paulson-s-419-scam" : {
+    "filename" : "paulson-s-419-scam.textile",
+    "title" : "Paulson's 419 Scam",
+    "published" : [2008,9,23],
+    "tags" : ["funny"]
+  },
+  "/2008/9/23/leveraged-to-the-sky" : {
+    "filename" : "leveraged-to-the-sky.textile",
+    "title" : "Leveraged To The Sky",
+    "published" : [2008,9,23],
+    "tags" : ["business"]
+  },
+  "/2008/9/17/just-when-you-think-paulson-is-done" : {
+    "filename" : "just-when-you-think-paulson-is-done.textile",
+    "title" : "Just When You Think Paulson is Done",
+    "published" : [2008,9,17],
+    "tags" : ["business"]
+  }, 
+  "/2008/9/16/brat-worship" : {
+    "filename" : "brat-worship.textile",
+    "title" : "Brat Worship",
+    "published" : [2008,9,16],
+    "tags" : []
+  },
+  "/2008/9/15/how-to-receive-a-federal-bailout" : {
+    "filename" : "how-to-receive-a-federal-bailout.textile",
+    "title" : "How to Receive A Federal Bailout",
+    "published" : [2008,9,15],
+    "tags" : ["business"]
+  }, 
+  "/2008/5/11/google-app-engine" : {
+    "filename" : "google-app-engine.textile",
+    "title" : "Google App Engine",
+    "published" : [2008,5,11],
+    "tags" : ["technology"]
+  }, 
+  "/2008/5/9/alarmtube-robbed" : {
+    "filename" : "alarmtube-robbed.textile",
+    "title" : "AlarmTube Has Been Robbed",
+    "published" : [2008,5,9],
+    "tags" : ["technology"]
+  },
+  "/2008/2/14/the-real-way-to-bet-on-sports" : {
+    "filename" : "the-real-way-to-bet-on-sports.textile",
+    "title" : "The Real Way To Bet on Sports",
+    "published" : [2008,2,14],
+    "tags" : ["sports"]
+  }, 
+  "/2008/2/11/should-we-be-concerned-with-widening-income-gaps" : {
+    "filename" : "should-we-be-concerned-with-widening-income-gaps.textile",
+    "title" : "How Concerned Should We Be With The Widening Income Gap",
+    "published" : [2008,2,11],
+    "tags" : []
+  }, 
+  "/2008/1/31/5-things-i-learned-at-the-spice-girls-concert" : {
+    "filename" : "5-things-i-learned-at-the-spice-girls-concert.textile",
+    "title" : "5 Things I Learned at the Spice Girls Concert",
+    "published" : [2008,1,31],
+    "tags" : ["life"]
+  },
+  "/2008/1/27/couchfs-release-0-0-1" : {
+    "filename" : "couchfs-release-0-0-1.textile",
+    "title" : "CouchFS Release 0.0.1",
+    "published" : [2008,1,27],
+    "tags" : ["technology"]
+  },
+  "/2007/12/20/socialpicks-a-new-kind-of-stock-analyst" : {
+    "filename" : "socialpicks-a-new-kind-of-stock-analyst.textile",
+    "title" : "SocialPicks - A New Kind Of Stock Analyst",
+    "published" : [2007,12,20],
+    "tags" : ["web"]
+  }, 
+  "/2007/12/18/does-ribbit-get-the-internet-economy" : {
+    "filename" : "does-ribbit-get-the-internet-economy.textile",
+    "title" : "Does Ribbit Get The Internet Economy",
+    "published" : [2007,12,18],
+    "tags" : ["web"]
+  },
+  "/2007/12/14/the-new-potential-blizzard-rule" : {
+    "filename" : "the-new-potential-blizzard-rule.textile",
+    "title" : "The New Potential Blizzard Rule",
+    "published" : [2007,12,14],
+    "tags" : ["life"]
+  },
+  "/2007/12/9/couchfs-couchdb-macfuse" : {
+    "filename" : "couchfs-couchdb-macfuse.textile",
+    "title" : "CouchFS = CouchDB + MacFuse",
+    "published" : [2007,12,9],
+    "tags" : ["technology"]
+  },
+  "/2007/11/29/flight-wait-mashup" : {
+    "filename" : "flight-wait-mashup.textile",
+    "title" : "Flight Wait Mashup",
+    "published" : [2007,11,29],
+    "tags" : ["technology"]
+  }, 
+  "/2007/11/17/new-site-look" : {
+    "filename" : "new-site-look.textile",
+    "title" : "New Site Look!",
+    "published" : [2007,11,17],
+    "tags" : ["announcements"]
+  },
+  "/2007/11/13/scraping-google-adsense" : {
+    "filename" : "scraping-google-adsense.textile",
+    "title" : "Scraping Google Adsense",
+    "published" : [2007,11,13],
+    "tags" : ["technology","web"]
+  },
+  "/2007/11/4/rubyinline-link-errors-on-leopard" : {
+    "filename" : "rubyinline-link-errors-on-leopard.textile",
+    "title" : "RubyInline Link Errors on Leopard",
+    "published" : [2007,11,4],
+    "tags" : ["technology"]
+  },
+  "/2007/11/1/leading-by-omission-or-to-submission" : {
+    "filename" : "leading-by-omission-or-to-submission.textile",
+    "title" : "Leading By Omission or To Submission",
+    "published" : [2007,11,1],
+    "tags" : ["business"]
+  },
+  "/2007/10/31/2007-red-sox-prognostication-results" : {
+    "filename" : "2007-red-sox-prognostication-results.textile",
+    "title" : "2007 Red Sox Prognostication [Results]",
+    "published" : [2007,10,31],
+    "tags" : ["sports"]
+  },
+  "/2007/10/25/couchdb-relaxing-the-db-restrictions" : {
+    "filename" : "couchdb-relaxing-the-db-restrictions.textile",
+    "title" : "CouchDB Relaxing the DB restrictions",
+    "published" : [2007,10,25],
+    "tags" : ["technology"]
+  },
+  "/2007/10/21/good-luck-mike" : {
+    "filename" : "good-luck-mike.textile",
+    "title" : "Good Luck Mike!",
+    "published" : [2007,10,21],
+    "tags" : ["life"]
+  },
+  "/2007/10/20/frying-my-brain-on-mba-essays" : {
+    "filename" : "frying-my-brain-on-mba-essays.textile",
+    "title" : "Frying My Brain on MBA Essays",
+    "published" : [2007,10,20],
+    "tags" : ["life"]
+  },
+  "/2007/10/10/integrating-git-and-subversion" : {
+    "filename" : "integrating-git-and-subversion.textile",
+    "title" : "Integrating git and subversion",
+    "published" : [2007,10,10],
+    "tags" : ["technology"]
+  },
+  "/2007/9/17/berkeley-joins-beacon" : {
+    "filename" : "berkeley-joins-beacon.textile",
+    "title" : "Berkeley joins Beacon",
+    "published" : [2007,9,17],
+    "tags" : ["life", "dogs"]
+  },
+  "/2007/9/17/opendns-phishing-not-allowed" : {
+    "filename" : "opendns-phishing-not-allowed.textile",
+    "title" : "OpenDNS - Phishing Not Allowed",
+    "published" : [2007,9,17],
+    "tags" : ["web", "technology"]
+  },
+  "/2007/9/12/my-first-kiva-loan" : {
+    "filename" : "my-first-kiva-loan.textile",
+    "title" : "My First Kiva Loan",
+    "published" : [2007,9,12],
+    "tags" : ["web"]
+  },
+  "/2007/7/31/google-health-personal-health-record-management" : {
+    "filename" : "google-health-personal-health-record-management.textile",
+    "title" : "Google Health - Personal Health Record Management",
+    "published" : [2007,7,31],
+    "tags" : ["web"]
+  },
+  "/2007/7/28/rails-defaults-and-the-paradox-of-choice" : {
+    "filename" : "rails-defaults-and-the-paradox-of-choice.textile",
+    "title" : "Rails, Defaults and the Paradox of Choice",
+    "published" : [2007,7,28],
+    "tags" : ["technology"]
+  },
+  "/2007/7/4/beacon-comes-home" : {
+    "filename" : "beacon-comes-home.textile",
+    "title" : "Beacon Comes Home",
+    "published" : [2007,7,4],
+    "tags" : ["life", "dogs"]
+  },
+  "/2007/6/23/orb-audio-simple-awesome-sound" : {
+    "filename" : "orb-audio-simple-awesome-sound.textile",
+    "title" : "Orb Audio - Simple Awesome Sound",
+    "published" : [2007,6,23],
+    "tags" : ["technology"]
+  },
+  "/2007/6/23/alarmtube-alarms-the-youtube-way" : {
+    "filename" : "alarmtube-alarms-the-youtube-way.textile",
+    "title" : "AlarmTube - Alarms the YouTube way",
+    "published" : [2007,6,23],
+    "tags" : ["web","announcements"]
+  },
+  "/2007/6/4/american-idol-youtube-style" : {
+    "filename" : "american-idol-youtube-style.textile",
+    "title" : "American Idol, YouTube Style",
+    "published" : [2007,6,4],
+    "tags" : []
+  },
+  "/2007/6/1/just-give-me-an-accurate-time-estimate" : {
+    "filename" : "just-give-me-an-accurate-time-estimate.textile",
+    "title" : "Just Give Me An Accurate Time Estimate",
+    "published" : [2007,6,1],
+    "tags" : ["life"]
+  },
+  "/2007/4/18/the-net-is-under-attack" : {
+    "filename" : "the-net-is-under-attack.textile",
+    "title" : "The Net is Under Attack",
+    "published" : [2007,4,18],
+    "tags" : ["web"]
+  },
+  "/2007/4/11/meraki-networks-sweet" : {
+    "filename" : "meraki-networks-sweet.textile",
+    "title" : "Meraki Networks = Sweet",
+    "published" : [2007,4,11],
+    "tags" : ["technology"]
+  },
+  "/2007/4/4/why-hospitals-should-fear-ws" : {
+    "filename" : "why-hospitals-should-fear-ws.textile",
+    "title" : "Why Hospitals Should Fear WS*",
+    "published" : [2007,4,4],
+    "tags" : ["technology"]
+  },
+  "/2007/4/2/2007-redsox-prognostacation" : {
+    "filename" : "2007-redsox-prognostacation.textile",
+    "title" : "2007 Redsox Prognostication",
+    "published" : [2007,4,2],
+    "tags" : ["sports"]
+  },
+  "/2007/3/31/taxes-2006-done-thanks-turbotax" : {
+    "filename" : "taxes-2006-done-thanks-turbotax.textile",
+    "title" : "Taxes 2006 Done - Thanks TurboTax",
+    "published" : [2007,3,31],
+    "tags" : ["web"]
+  },
+  "/2007/3/28/apartment-hunting" : {
+    "filename" : "apartment-hunting.textile",
+    "title" : "Apartment Hunting",
+    "published" : [2007,3,28],
+    "tags" : ["life"]
+  },
+  "/2007/3/26/blogging-begins-now" : {
+    "filename" : "blogging-begins-now.textile",
+    "title" : "Blogging Begins ... Now",
+    "published" : [2007,3,26],
+    "tags" : ["announcements"]
+  }
+}

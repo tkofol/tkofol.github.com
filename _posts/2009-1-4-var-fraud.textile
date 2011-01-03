@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: V@R: Is it a fraud?
+tags: [business]
+---
+Great "article written by Joe Nocera":http://www.nytimes.com/2009/01/04/magazine/04risk-t.html?pagewanted=all in today's NYTimes Magazine that discusses Wall Street risk management practices. In particular, he discusses a risk measure call value at risk. Nocera does a good job looking at both sides, but I lean more to "Nassim Nicholas Taleb's":http://www.fooledbyrandomness.com/ side of the argument. Here is my favorite passage of the article.
+
+bq. After the lecture, the professor who invited Taleb to Columbia took a handful of people out for a late lunch at a nearby diner. Somewhat surprisingly, given Taleb's well-known scorn for risk managers, the professor had also invited several risk managers who worked at two big investment banks. We had barely been seated before they tried to engage Taleb in a debate over the value of VaR. But Taleb is impossible to argue with on this subject; every time they raised an objection to his argument, he curtly dismissed them out of hand. VaR can be useful, said one of the risk managers. It depends on how you use it. It can be useful in identifying trends.
+
+bq. This argument is addressed in 'The Black Swan', Taleb retorted. Not a single person has offered me an argument I haven't heard.
+
+bq. I think VaR is great, said another risk manager. I think it is a fantastic tool. It's like an altimeter in aircraft. It has some margin for error, but if you're a pilot, you know how to deal with it. But very few pilots give up using it.
+
+bq. Taleb replied: Altimeters have errors that are Gaussian. You can compensate. In the real world, the magnitude of errors is much less known.
+
+In theory V@R seems like a good tool, but because you don't know the distribution of the errors, it has very little practical use. If one does use it, V@R must be with extreme caution.

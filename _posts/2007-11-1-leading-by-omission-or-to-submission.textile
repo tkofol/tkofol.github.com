@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Leading By Omission or To Submission
+tags: [business]
+---
+!/static/images/articles/semler_vs_jobs.png!
+
+I just finished listening too a couple of good talks, by people in very different industries, with starkly different takes on leadership. "Ricardo Semler":http://en.wikipedia.org/wiki/Ricardo_Semler head of "Semco":http://semco.locaweb.com.br/pt/ and Jason Fried founder of "37 signals":http://www.37signals.com/. 
+
+Ricardo gave a lecture sponsored by MIT, you can see it "here":http://mitworld.mit.edu/video/308/ and Jason was interviewed by Walt Mosberg at Business Innovation Factory, seen "here":http://www.businessinnovationfactory.com/innovationstorystudio/bif3_jfried.php.
+
+Ricardo states his negativity towards classical corporate structure in which you tell your subordinates what to do and they do it, Ricardo proudly states that 2 years ago he celebrated the date in which it was "10 years since he made any decision ".
+
+Contrastingly Jason, who's blog actually turned me on to Ricardo's talk, speaks of his admiration for Steve Jobs during the interview with Walt Mossberg. Mossberg then talks about Job's Czar like control over Apple, exclaiming that Steve has be known to edit even the most routine press releases and Jason remarks "and I love it". 
+
+Which got me thinking about how Steve Jobs and Ricardo Semler have two drastically different styles of leadership and corporate philosophy but both have ended up with incredibly successfully companies. Ricardo leading Semco to an average growth rate of 25% for the last 25 years, and Jobs turning Apple into what it is today. 
+
+So which philosophy is correct. Probably both, which is bit of a flaky answer. I lean more too Semler's camp, I love his radical democratization of the workplace, creating much more of a free market working environment. To some extent many of Semler's ideas remind me of Google's twenty percent time, but with Semler it is 100% time. 
+
+Finally as Semler poignantly points out, it is amazing that we spend 60% of are time in a dictatorship (work) {loosely speaking}, while we fight for democracy in the rest of our life. 
+
+In your opinion what does the future of management look like?

@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: RubyInline Link Errors on Leopard
+tags: [technology]
+---
+For those of you who have upgraded to OS X Leopard and tried to use RubyInline. You might have been greeted with lots of Compilation Errors.
+
+Well after a couple hours of googling, i found the solutions "here":http://trac.macosforge.org/projects/ruby/wiki/Troubleshooting.
+
+Turns out Ruby built on Leopard is built without the compilation flag saying ignore missing symbols when linking.
+
+The temporary hack to fix it, is to go into the RubyInline gem directory and find lib/inline.rb file and change the line that looks like this
+
+<macro:code lang="ruby">
+flags = @flags.join(' ')
+</macro:code>
+
+to this
+
+<macro:code lang="ruby">
+flags = @flags.join(' ') + ' -lruby'
+</macro:code>
+
+Now everything should work. Hopefully the next RubyInline version will fix this problem, so I don't have to hack it again.

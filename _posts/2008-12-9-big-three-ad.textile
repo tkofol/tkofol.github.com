@@ -1,0 +1,6 @@
+--- 
+layout: post
+title: New Big Three Advertisement
+tags: [funny]
+---
+!/static/images/articles/bigthree.jpg!

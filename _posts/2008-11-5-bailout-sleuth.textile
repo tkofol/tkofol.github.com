@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Bailout Sleuth
+tags: [business]
+---
+"Bailout Sleuth":http://bailoutsleuth.com/ is a new website funded by "Mark Cuban":http://blogmaverick.com that is keeping an eye on the bailout. For this bailout to work, all transactions need be transparent to the hard working tax payers. The lack of transparency has largely gone unreported, but bailoutsleuth.com is trying to change that.
+
+The site has already reported on:
+* Executive and legal compensation redacted on contracts
+* The bailout going to fund deferred executive compensation
+* High dividends being paid by the banks

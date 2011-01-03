@@ -1,0 +1,6 @@
+--- 
+layout: post
+title: Nationalized Citibank
+tags: [funny]
+---
+<object width="512" height="328" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="ordie_player_c130f64d6f"><param name="movie" value="http://player.ordienetworks.com/flash/fodplayer.swf" /><param name="flashvars" value="key=c130f64d6f" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"></param><embed width="512" height="328" flashvars="key=c130f64d6f" allowfullscreen="true" allowscriptaccess="always" quality="high" src="http://player.ordienetworks.com/flash/fodplayer.swf" name="ordie_player_c130f64d6f" type="application/x-shockwave-flash"></embed></object><div style="text-align:left;font-size:x-small;margin-top:0;width:512px;"><a href="http://www.funnyordie.com/videos/c130f64d6f/the-new-f-ing-citibank" title="from FOD Team, Eric Appel, and Seth ">The New F***ing Citibank</a> - watch more <a href="http://www.funnyordie.com/" title="on Funny or Die">funny videos</a></div>

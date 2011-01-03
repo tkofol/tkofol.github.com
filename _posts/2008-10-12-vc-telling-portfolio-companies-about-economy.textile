@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: VC's Irresponsibly Telling Their Portfolio Companies About the Economy
+tags: [business]
+---
+There has been a debate in the blogosphere about whether Venture Capital companies are being irresponsible for only now telling their portfolio companies to scale back their spending.  
+
+"Fred Wilson wrote about this previously saying":http://www.avc.com/a_vc/2008/10/dont-shoot-the.html
+
+bq. "...we have a responsibility as investors, board members, fiduciaries, and advisors to our companies to tell them what we've seen before, that acting now decisively will make it easier to survive tough times."
+
+"Now Michael Arrington has added his two sense":http://www.techcrunch.com/2008/10/11/profit-maximization-v-survival-maximization/ dispelling to ridiculous myths that has come out during this debate.
+
+* VC's made this happen. (Just Silly)
+* VC's should always be stressing to their portfolio companies to conserve cash.
+
+Arrington does a particularly good job refuting this second myth. Both are worthwhile reads.
+
+In the end the economy is in the dumper. If you think stressing to your portfolio companies the necessity of conserving cash is irresponsible, then I pray my money is not being managed by you.

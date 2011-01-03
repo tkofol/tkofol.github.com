@@ -1,0 +1,40 @@
+--- 
+layout: post
+title: Scraping Google Adsense
+tags: [technology, web]
+---
+I am obsessed with "Google Adsense":http://www.google.com/adsense. I waste a ton of time looking at my daily page impressions, click through percentage and earnings. Well I found a way to "scrape":http://en.wikipedia.org/wiki/Screen_scraping that data to my desktop.
+
+Thanks to "schadenfreude":http://schf.uc.org/articles/2007/02/26/breaking-into-orkut-with-mechanize for the basics of this idea.
+
+<macro:code lang="ruby">
+require 'rubygems'
+require 'mechanize'
+
+agent = WWW::Mechanize.new
+
+# Adsense's login form is included in an iframe so we will need to use the iframe url instead of http://www.google.com/adsense
+page = agent.get 'https://www.google.com/accounts/ServiceLoginBox?service=adsense&amp;ltmpl=login&amp;ifr=true&amp;rm=hide&amp;fpui=3&amp;nui=15&amp;alwf=true&amp;passive=true&amp;continue=https%3A%2F%2Fwww.google.com%2Fadsense%2Flogin-box-gaiaauth&amp;followup=https%3A%2F%2Fwww.google.com%2Fadsense%2Flogin-box-gaiaauth&amp;hl=en_US'
+
+# The login form isn't named but it is the first and only form on the page,.. lets get it.
+form = page.forms.first
+
+# Fill out the form with your credentials and submit
+form.Email = 'username'
+form.Passwd = 'password'
+
+page = agent.submit form
+
+# This is the tricky part as we get bounced around with some javascript redirects.
+# Simply follow the url. It is not dynamic, no session ids, etc so just hard code it, should never change.
+page = agent.get 'https://www.google.com/accounts/CheckCookie?continue=https%3A%2F%2Fwww.google.com%2Fadsense%2Flogin-box-gaiaauth&followup=https%3A%2F%2Fwww.google.com%2Fadsense%2Flogin-box-gaiaauth&service=adsense&hl=en_US&chtml=LoginDoneHtml'
+
+# We are now logged in and can go to any adsense page we with
+page = agent.get 'https://www.google.com/adsense/report/overview'
+</macro:code>
+
+Now you just have to scrape the page using "hpricot":http://code.whytheluckystiff.net/hpricot/ to get the metrics you are interested in.
+
+Combine that with "geektool":http://projects.tynsoe.org/en/geektool/ and now you have realtime Adsense updates straight to your desktop.
+
+*Note:* Because of the way google handles adsense data, you often get inconsistent results. One second you may have 100 page views the next login you may have 50. Trust the higher number as I assume there is just a lag in adsense data being replicated on the database servers.
