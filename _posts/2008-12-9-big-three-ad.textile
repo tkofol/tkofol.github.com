@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: New Big Three Advertisement
-tags: [funny]
+tags: 
+- funny
 ---
 !/static/images/articles/bigthree.jpg!

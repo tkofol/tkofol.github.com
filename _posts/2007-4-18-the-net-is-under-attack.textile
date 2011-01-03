@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: The Net is Under Attack
-tags: [web]
+tags: 
+- web
 ---
 Imagine a world in which you typed www.google.com and got sent to www.msn.com. Or where the www.highimpactnoise.com sent you www.bestbuy.com (I don't know why this would happen, maybe Best Buy found that readers of this blog are good customers).
 

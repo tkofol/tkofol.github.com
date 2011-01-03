@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: RubyInline Link Errors on Leopard
-tags: [technology]
+tags: 
+- technology
 ---
 For those of you who have upgraded to OS X Leopard and tried to use RubyInline. You might have been greeted with lots of Compilation Errors.
 

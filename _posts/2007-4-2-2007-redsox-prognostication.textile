@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: 2007 Redsox Prognostication
-tags: [sports]
+tags: 
+- sports
 ---
 Spring is finally here as the Boston Redsox begin their 2007 season today. Ahhh don't you get warm and fuzzy just thinking about it.
 

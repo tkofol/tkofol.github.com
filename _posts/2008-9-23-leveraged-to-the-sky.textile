@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Leveraged To The Sky
-tags: [business]
+tags: 
+- business
 ---
 "Paul Kedrosky of Infectious Greed":http://paul.kedrosky.com/ tipped me off to this quote.
 

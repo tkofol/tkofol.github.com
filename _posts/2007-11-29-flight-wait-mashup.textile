@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Flight Wait Mashup
-tags: [technology]
+tags: 
+- technology
 ---
 After a thanksgiving weekend of traveling in which I had connecting flights both to Florida and back to Boston. I wish I had known about a website called "flightwait.com":http://www.flightwait.com/ earlier. This site is a google maps mashup, that shows you where the flight delays are.
 

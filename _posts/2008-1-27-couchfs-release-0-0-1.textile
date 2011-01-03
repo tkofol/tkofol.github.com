@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: CouchFS Release 0.0.1
-tags: [technology]
+tags: 
+- technology
 ---
 Well I haven't given this project much love lately. I took a little time out this weekend and stabilized it (a little) and added the much needed feature of specifying the database url and port.
 

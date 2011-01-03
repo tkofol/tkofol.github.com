@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Just Give Me An Accurate Time Estimate
-tags: [life]
+tags: 
+- life
 ---
 I recently had the pleasure of moving from one apartment to the next. Everyone was late, the movers, the cable guy, and when I called to check on what was going on, no one could give me an accurate time estimate.
 

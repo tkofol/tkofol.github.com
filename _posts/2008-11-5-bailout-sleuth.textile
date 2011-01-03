@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Bailout Sleuth
-tags: [business]
+tags: 
+- business
 ---
 "Bailout Sleuth":http://bailoutsleuth.com/ is a new website funded by "Mark Cuban":http://blogmaverick.com that is keeping an eye on the bailout. For this bailout to work, all transactions need be transparent to the hard working tax payers. The lack of transparency has largely gone unreported, but bailoutsleuth.com is trying to change that.
 

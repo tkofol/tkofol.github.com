@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Why Most Things Fail?!
-tags: [business]
+tags: 
+- business
 ---
 I have been catching up on my reading lately, finishing books I started 1-3 years ago.
 

@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: American Idol, YouTube Style
-tags: []
+tags: 
 ---
 I have been working on a simple Alarm Clock/YouTube type mashup and came across a story that really demonstrates the power of the internet. Now I don't watch much YouTube television but when I was looking at the featured videos I came across one by "Esmee Denters":http://esmeeworld.com/.
 

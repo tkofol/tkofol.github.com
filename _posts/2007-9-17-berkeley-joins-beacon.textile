@@ -1,7 +1,9 @@
 --- 
 layout: post
 title: Berkeley joins Beacon
-tags: [life, dogs]
+tags: 
+- life
+- dogs
 ---
 Friday night Berkeley, the lovable, yet slightly insane black lab puppy has joined Beacon in my household.
 

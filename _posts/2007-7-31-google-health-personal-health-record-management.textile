@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Google Health - Personal Health Record Management
-tags: [web]
+tags: 
+- web
 ---
 !/static/images/articles/google-health.jpg!
 

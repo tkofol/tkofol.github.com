@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Intrinsic Motivators Matter Much More in The 21st Century
-tags: []
+tags: 
 ---
 Insightful TED talk on what motivates people and why rewards counterintuitively create poorer performance for creative cognitive tasks. We need to realign corporate Americas reward system from extrinsic to intrinsic motivation. Check out the talk and you may be convinced... I really liked the Encarta vs. Wikipedia example.
 

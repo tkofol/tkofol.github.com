@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: SocialPicks - A New Kind Of Stock Analyst
-tags: [web]
+tags: 
+- web
 ---
 !/static/images/articles/social_picks_logo.gif!
 

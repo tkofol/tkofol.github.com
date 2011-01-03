@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Hulu & The Holidays
-tags: [web]
+tags: 
+- web
 ---
 First off, Happy Holidays to anybody who wanders on this post. 
 

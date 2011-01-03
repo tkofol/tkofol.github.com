@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Rails, Defaults and the Paradox of Choice
-tags: [technology]
+tags: 
+- technology
 ---
 "Convention over Configuration":http://en.wikipedia.org/wiki/Ruby_on_Rails. One of the main tenants of Ruby on Rails basically sets sensible defaults and forces the programmer to code only unconventional aspects of the app. To me this is one, if not the main reason Rails programming is so enjoyable.
 

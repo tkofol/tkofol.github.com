@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Paulson's 419 Scam
-tags: [funny]
+tags: 
+- funny
 ---
 SUBJECT: REQUEST FOR URGENT BUSINESS RELATIONSHIP
 

@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Taxes 2006 Done - Thanks TurboTax
-tags: [web]
+tags: 
+- web
 ---
 I just finished my 2006 taxes and I just wanted to take this time to thank "TurboTax":http://turbotax.intuit.com. It was a breeze. I am not going to lie (I hate that phrase), I don't have a lot going on in my taxes but I can't imagine doing my taxes with a pen, paper and calculator. 
 

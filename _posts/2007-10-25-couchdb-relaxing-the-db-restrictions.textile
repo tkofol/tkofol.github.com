@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: CouchDB Relaxing the DB restrictions
-tags: [technology]
+tags: 
+- technology
 ---
 !/static/images/articles/couchDB_logo.png!
 

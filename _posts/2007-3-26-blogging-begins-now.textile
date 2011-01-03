@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Blogging Begins ... Now
-tags: [announcements]
+tags: 
+- announcements
 ---
 It seems everyone and their mother has a blog, so I am throwing my hat in the ring.
 

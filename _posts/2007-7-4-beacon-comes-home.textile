@@ -1,7 +1,9 @@
 --- 
 layout: post
 title: Beacon Comes Home
-tags: [life, dogs]
+tags: 
+- life
+- dogs
 ---
 
 I am happy to announce that Beacon the 8 week old lovable Yellow Lab Puppy has successfully adapted to my household. 

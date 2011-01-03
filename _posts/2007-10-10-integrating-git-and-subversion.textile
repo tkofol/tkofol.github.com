@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Integrating git and subversion
-tags: [technology]
+tags: 
+- technology
 ---
 I have recently been playing around with git source control, just checking out what the new rage in source control is all about.
 

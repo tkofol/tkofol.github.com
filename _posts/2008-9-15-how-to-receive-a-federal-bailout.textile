@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: How to Receive A Federal Bailout
-tags: [business]
+tags: 
+- business
 ---
 Barry Ritholz at "The Big Picture":http://bigpicture.typepad.com has a great list of "lessons learned from Bear & Lehman":http://bigpicture.typepad.com/comments/2008/09/the-terrible-le.html
 

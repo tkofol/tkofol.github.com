@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Gridlock Economy and Patent Reform
-tags: [business]
+tags: 
+- business
 ---
 Just finished listening "Michael Heller":http://www.law.columbia.edu/fac/Michael_Heller on "EconTalk":http://www.econtalk.org/archives/2009/11/heller_on_gridl.html who was talking about his new book "The Gridlock Economy":http://www.gridlockeconomy.com/. Michael Heller talked about a fact that a had previously known but had not given much thought recently. There is an increasing number of biotech patents being issued, while the number of biotech drugs approved has remained relatively stagnant. This is both an indictment on are drug approval process and more so of the patent system.
 

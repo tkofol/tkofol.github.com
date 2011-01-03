@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Tuition Bubble?
-tags: []
+tags: 
 ---
 Awesome info graphic from "mint":http://mint.com. My favorite part is the tuition bubble question. I think this may be one of the next U.S. bubbles.
 

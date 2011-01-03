@@ -1,7 +1,9 @@
 --- 
 layout: post
 title: AlarmTube - Alarms the YouTube way
-tags: [web,announcements]
+tags: 
+- web
+- announcements
 ---
 I just released a little YouTube mashup called "AlarmTube":http://alarmtube.highimpactnoise.com. 
 

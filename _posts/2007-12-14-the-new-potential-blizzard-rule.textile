@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: The New Potential Blizzard Rule
-tags: [life]
+tags: 
+- life
 ---
 !/static/images/articles/mass_ave_bridge_snow.jpg!
 

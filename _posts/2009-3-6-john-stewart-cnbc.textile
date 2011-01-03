@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: John Stewart Ripping CNBC
-tags: [funny]
+tags: 
+- funny
 ---
 Very Funny.
 

@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Does Ribbit Get The Internet Economy
-tags: [web]
+tags: 
+- web
 ---
 !/static/images/articles/ribbit_logo.jpg!
 

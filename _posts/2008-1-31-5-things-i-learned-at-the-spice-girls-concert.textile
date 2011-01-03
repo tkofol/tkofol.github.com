@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: 5 Things I Learned at the Spice Girls Concert
-tags: [life]
+tags: 
+- life
 ---
 I gave my girlfriend "Spice Girls":http://www.thespicegirls.com/ tickets for Christmas. Last night I accompanied my girlfriend and 2 of her women friends to a sold out TD Banknorth Arena. 
 

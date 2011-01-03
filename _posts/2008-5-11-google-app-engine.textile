@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Google App Engine
-tags: [technology]
+tags: 
+- technology
 ---
 So I spent the last couple of hours moving "AlarmTube":http://alarmtube.highimpactnoise.com from a Rails application to one that is host by "Google App Engine":http://code.google.com/appengine (GAE).
 

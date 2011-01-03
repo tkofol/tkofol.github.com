@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Why Hospitals Should Fear WS*
-tags: [technology]
+tags: 
+- technology
 ---
 As more and more medical devices try to become networked entities this creates an added burden on hospital IT administrators. Unfortunately hospital admin's WS* and in particular SOAP based protocols are "gaining traction":http://medicalconnectivity.com/2006/10/03.html and becoming the defacto standard. WS Death Star as DHH aptly nicknamed is a complicated standard that has plenty inherent security problems
 

@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: AlarmTube Has Been Robbed
-tags: [technology]
+tags: 
+- technology
 ---
 Sometime ago I created a simple YouTube Alarm Clock mashup called "AlarmTube":http://alarmtube.highimpactnoise.com 
 

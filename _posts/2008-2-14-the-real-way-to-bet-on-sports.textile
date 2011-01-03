@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: The Real Way To Bet on Sports
-tags: [sports]
+tags: 
+- sports
 ---
 !/static/images/articles/cleveland-indians.gif!
 

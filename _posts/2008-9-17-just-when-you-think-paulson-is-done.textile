@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Just When You Think Paulson is Done
-tags: [business]
+tags: 
+- business
 ---
 Wham, lets bail out AIG. I am thoroughly confused by the "Paulson Doctrine":http://www.informationarbitrage.com/2008/09/the-paulson-doc.html, but I think Paulson is confused by it as well. No to AIG, Yes to AIG. No to Lehman, Yes to Bear. 
 

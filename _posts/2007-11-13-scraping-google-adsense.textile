@@ -1,7 +1,9 @@
 --- 
 layout: post
 title: Scraping Google Adsense
-tags: [technology, web]
+tags: 
+- technology
+- web
 ---
 I am obsessed with "Google Adsense":http://www.google.com/adsense. I waste a ton of time looking at my daily page impressions, click through percentage and earnings. Well I found a way to "scrape":http://en.wikipedia.org/wiki/Screen_scraping that data to my desktop.
 

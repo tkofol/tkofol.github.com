@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Riding The Hot Goalie Fallacy
-tags: [sports]
+tags: 
+- sports
 ---
 !/static/images/articles/IMG00051-20100514-2137.png!
 

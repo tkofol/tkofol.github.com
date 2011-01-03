@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: 2007 Red Sox Prognostication [Results]
-tags: [sports]
+tags: 
+- sports
 ---
 Before the season started I made my predictions on how the 2007 Red Sox baseball season would go. Man was I off. But I will face up to my errors.
 

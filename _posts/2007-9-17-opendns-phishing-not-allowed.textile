@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: OpenDNS - Phishing Not Allowed
-tags: [technology]
+tags: 
+- technology
 ---
 Recently a friend of mine fell victim to a "phishing":http://en.wikipedia.org/wiki/Phishing scam. Phishing is a huge problem plaguing the internet costing millions of dollars. Gartner claims, between May 2004 and May 2005, roughly 1.2 million U.S. computer users suffered phishing losses valued at $929 million.
 

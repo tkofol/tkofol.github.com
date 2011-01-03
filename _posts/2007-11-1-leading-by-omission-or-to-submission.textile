@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Leading By Omission or To Submission
-tags: [business]
+tags: 
+- business
 ---
 !/static/images/articles/semler_vs_jobs.png!
 

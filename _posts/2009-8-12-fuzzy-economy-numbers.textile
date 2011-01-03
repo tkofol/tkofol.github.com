@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: The Fuzzy Numbers of the Economy
-tags: [business]
+tags: 
+- business
 ---
 Hat tip "zero hedge":http://www.zerohedge.com/ for linking to this must watch video on how the government manipulates inflation and GDP numbers to make things look a little better than the actually are. I am sure economist have good reasons for doing each of the little tricks described in this video, but sometimes simple numbers are more insightful than tricked up algorithmically adjusted nonsense. 
 

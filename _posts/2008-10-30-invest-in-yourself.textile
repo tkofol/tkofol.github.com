@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Invest In Yourself [Quote]
-tags: []
+tags: 
 ---
 Quote paraphrased from "Jason Calacanis":http://calacanis.com/ on "TWIT":http://twit.tv/.
 

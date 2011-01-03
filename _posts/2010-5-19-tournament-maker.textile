@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Tournament Maker {Simple Tournament Creator}
-tags: [announcements]
+tags: 
+- announcements
 ---
 !/static/images/articles/app_1_110049992353453_5048.gif!
 

@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: You Think Healthcare Cost are Skyrocketing
-tags: []
+tags: 
 ---
 I have blogged about this before, but Seth Godin's blog post on "higher education":http://sethgodin.typepad.com/seths_blog/2010/04/the-coming-meltdown-in-higher-education-as-seen-by-a-marketer.html got me thinking about this issue again. The higher education tuition bubble is waiting to be popped. This could happen through the innovative use of technology bringing the system down or it could be the system imploding on itself much like the housing market did. My guess is it will be the later, students and their families will stop being able to afford the education that may or may not payoff in the long run. Don't get me wrong, I am all for educating our kids. I think the U.S. higher education system is one of the country's chief advantages in the global economy. But sooner or later, like all economic decisions, one has the weigh the cost vs. the benefits. Looking at the cost curve that day is coming soon.
 

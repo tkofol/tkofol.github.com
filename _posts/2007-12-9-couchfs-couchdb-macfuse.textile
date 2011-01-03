@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: CouchFS = CouchDB + MacFuse
-tags: [technology]
+tags: 
+- technology
 ---
 !/static/images/articles/macfuse.jpg!
 

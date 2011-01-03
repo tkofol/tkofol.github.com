@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Frying My Brain on MBA Essays
-tags: [life]
+tags: 
+- life
 ---
 I am on my n-teenth MBA essay today, and my brain is freakin in an infinite loop. I am learning to like writing, aka this blog, but it still doesn't come naturally to me. Furthermore writing about yourself is difficult, there is no topic I find harder to think about then myself.
 

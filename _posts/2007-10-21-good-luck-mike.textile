@@ -1,7 +1,8 @@
 --- 
 layout: post
 title: Good Luck Mike!
-tags: [life]
+tags: 
+- life
 ---
 !/static/images/articles/mike-kofol.jpg!
 
