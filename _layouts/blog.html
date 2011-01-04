@@ -28,8 +28,8 @@ layout: base
   <ul>
     <li><a href="/blog">Current</li>
     <li><a href="/blog/archives">Archives</li>
-    {% for tag in tags %}
-    <li><a href="/blog/tag/{{tag}}">{{tag|capitalize}}</li>
+    {% for tag in site.tags %}
+    <li><a href="/blog/tag/{{tag.first}}">{{tag.first|capitalize}}</li>
     {% endfor %}
   </ul>
   <div id="adsense">
