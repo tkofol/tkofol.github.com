@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: SNL: Morgan Stanley
+title: SNL - Morgan Stanley
 tags: 
 - funny
 ---

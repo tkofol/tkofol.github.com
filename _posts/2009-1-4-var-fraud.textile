@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: V@R: Is it a fraud?
+title: V@R - Is it a fraud?
 tags: 
 - business
 ---
